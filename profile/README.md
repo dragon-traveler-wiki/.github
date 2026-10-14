@@ -7,3 +7,5 @@ This organization supports the development of resources that help players explor
 **Website:** [dtwiki.org](https://dtwiki.org)
 
 This is an independent fan project and is not affiliated with the game's developers or publishers.
+
+Each repository's README links to setup and documentation. See the [shared contribution guide](https://github.com/dragon-traveler-wiki/.github/blob/main/CONTRIBUTING.md) to contribute.
