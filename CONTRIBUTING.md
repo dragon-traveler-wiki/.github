@@ -32,6 +32,6 @@ Each topic should have one authoritative home. The data contract lives in the da
 
 ## Shared community repository
 
-The `dragon-traveler-wiki/.github` repository hosts this guide, the default `PULL_REQUEST_TEMPLATE.md`, and the organization profile in `profile/README.md`. Templates and guidance are inherited where a repository has no local override. Its `.github/rulesets/main.json` describes protection for this repository alone; it does not configure other repositories automatically.
+The `dtwiki/.github` repository hosts this guide, the default `PULL_REQUEST_TEMPLATE.md`, and the organization profile in `profile/README.md`. Templates and guidance are inherited where a repository has no local override. Its `.github/rulesets/main.json` describes protection for this repository alone; it does not configure other repositories automatically.
 
 This repository contains community documents rather than application code and currently has no CI workflow. Review Markdown links and content before merging its required PRs. Changes to shared guidance should remain applicable across projects; keep project commands and data contracts in the affected repository.
